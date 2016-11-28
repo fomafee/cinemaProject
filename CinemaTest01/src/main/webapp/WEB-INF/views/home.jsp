@@ -3,11 +3,11 @@
 <%@ page pageEncoding ="utf-8" %>
 <html>
 <head>
-	<title>Home</title>
+	<title>메인페이지</title>
 </head>
 <body>
 <h1>
-	Hello world!  
+	메인페이지 입니다
 </h1>
 
 <P>  수정1 </P>
