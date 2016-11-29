@@ -14,8 +14,7 @@ public class MainController extends HttpServlet {
      * @see HttpServlet#HttpServlet()
      */
     public MainController() {
-        super();
-        // TODO Auto-generated constructor stub
+       
     }
 
 }
